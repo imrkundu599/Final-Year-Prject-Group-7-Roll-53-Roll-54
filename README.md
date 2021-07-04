@@ -39,6 +39,10 @@ pip install glob2
 ```
 pip install os-win
 ```
+## Python pandas Download
+```
+pip install pandas
+```
 
 ## Running any program of the Project
 ```
